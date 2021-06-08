@@ -3,7 +3,7 @@ Apiocoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/apiocoin-project/apiocoin.svg?branch=master)](https://travis-ci.org/apiocoin-project/apiocoin)
 
-https://apiocoin.org
+:bee:
 
 What is Apiocoin?
 ----------------
